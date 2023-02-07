@@ -6,3 +6,5 @@ The jupyter notebook included here will enable you to build a FAISS index on you
 ![image](https://user-images.githubusercontent.com/1031925/217168553-d74ef962-1a9d-4351-8c96-9033e65d58ab.png)
 
 I've provided a test directory of Neuromodulation papers if you want to as a sample Drive folder to test against -  https://drive.google.com/drive/folders/1eIBnSO7MVOW9-BKPCJhs7JuBDRyXPOFC?usp=sharing
+
+I will be working on a few enhancements to speed up the indexing (perhaps using a Vectorstore) and to optimize the query cost (using ideas from https://gpt-index.readthedocs.io/en/latest/how_to/cost_analysis.html)
