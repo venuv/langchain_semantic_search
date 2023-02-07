@@ -6,7 +6,7 @@ The jupyter notebook included here will enable you to build a FAISS index on you
 ![image](https://user-images.githubusercontent.com/1031925/217168553-d74ef962-1a9d-4351-8c96-9033e65d58ab.png)
 
 I've provided a test directory of Neuromodulation papers if you want to as a sample Drive folder to test against -  https://drive.google.com/drive/folders/1eIBnSO7MVOW9-BKPCJhs7JuBDRyXPOFC?usp=sharing. Since the code needs a Google Drive directory path (not an https URL) to work with, you will have to :
-- copy the contensts of this directory into a GDrive subdirectory of your own
+- copy the contents of this directory into a GDrive subdirectory of your own
 - set the gdrive_path variable in the jupyter notebook appropriately
 - set the question within print_answer to 'is sleep a health epidemic' for instance, which should give you a non-null answer
 
